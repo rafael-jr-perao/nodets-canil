@@ -17,3 +17,10 @@ npm install --save-dev @types/express @types/mustache-express @types/node
 --- server.ts
 
 package.json -> ajustar o arquivo que vai rodar o projeto em "start-dev"
+
+
+------------------------------------------
+git add . adiciona os arquivos para fazer o commit
+git commit -m "base criada"
+git push - faz o envio dos arquivos para o github
+------------------------------------------
